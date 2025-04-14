@@ -84,9 +84,9 @@ namespace WindowsFormsApp1
             this.buttonLogin.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.M_height;
             this.buttonLogin.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.buttonLogin.Font = new System.Drawing.Font("Segoe Script", 11.25F, System.Drawing.FontStyle.Bold);
-            this.buttonLogin.Location = new System.Drawing.Point(315, 355);
+            this.buttonLogin.Location = new System.Drawing.Point(313, 347);
             this.buttonLogin.Name = "buttonLogin";
-            this.buttonLogin.Size = new System.Drawing.Size(100, 49);
+            this.buttonLogin.Size = new System.Drawing.Size(121, 66);
             this.buttonLogin.TabIndex = 4;
             this.buttonLogin.Text = "Войти";
             this.buttonLogin.UseVisualStyleBackColor = true;
