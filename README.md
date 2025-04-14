@@ -3,7 +3,7 @@
 ![Мое фото](https://img.dunya.com/files/2017/12/1/392924/392924_0.jpg) 
 
 ## Автор
-**Рябов Егор**  
+**Рябов Егор Дмитриевич**  
 *Email: egorikruabov60@gmail.com*  
 *GitHub: [your-github-profile](https://github.com/Egor16020)*
 
