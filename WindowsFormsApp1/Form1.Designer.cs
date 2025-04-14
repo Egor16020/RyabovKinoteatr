@@ -44,7 +44,7 @@ namespace WindowsFormsApp1
             // 
             this.labelUsername.AutoSize = true;
             this.labelUsername.Font = new System.Drawing.Font("Segoe Script", 11.25F, System.Drawing.FontStyle.Bold);
-            this.labelUsername.Location = new System.Drawing.Point(322, 21);
+            this.labelUsername.Location = new System.Drawing.Point(322, 9);
             this.labelUsername.Name = "labelUsername";
             this.labelUsername.Size = new System.Drawing.Size(65, 25);
             this.labelUsername.TabIndex = 0;
