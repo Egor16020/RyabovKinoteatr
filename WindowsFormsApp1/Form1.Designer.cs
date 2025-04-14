@@ -116,7 +116,7 @@ namespace WindowsFormsApp1
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe Script", 11.25F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(461, 85);
+            this.label5.Location = new System.Drawing.Point(463, 85);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(246, 25);
             this.label5.TabIndex = 7;
