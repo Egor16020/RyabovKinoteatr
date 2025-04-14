@@ -96,7 +96,7 @@ namespace WindowsFormsApp1
             // 
             this.labelCaptcha.AutoSize = true;
             this.labelCaptcha.Font = new System.Drawing.Font("Segoe Script", 11.25F, System.Drawing.FontStyle.Bold);
-            this.labelCaptcha.Location = new System.Drawing.Point(310, 182);
+            this.labelCaptcha.Location = new System.Drawing.Point(322, 173);
             this.labelCaptcha.Name = "labelCaptcha";
             this.labelCaptcha.Size = new System.Drawing.Size(82, 25);
             this.labelCaptcha.TabIndex = 5;
