@@ -72,7 +72,7 @@ namespace WindowsFormsApp1
             // textBoxPassword
             // 
             this.textBoxPassword.Font = new System.Drawing.Font("Segoe Script", 11.25F, System.Drawing.FontStyle.Bold);
-            this.textBoxPassword.Location = new System.Drawing.Point(285, 116);
+            this.textBoxPassword.Location = new System.Drawing.Point(285, 125);
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.Size = new System.Drawing.Size(166, 32);
             this.textBoxPassword.TabIndex = 3;
